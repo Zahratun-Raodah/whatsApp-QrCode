@@ -1,0 +1,8 @@
+2025/08/01-14:04:48.143 4638 Creating DB C:\laragon\www\sipintar\wa-server\.wwebjs_auth\session\Default\Local Storage\leveldb since it was missing.
+2025/08/01-14:04:49.467 4638 Reusing MANIFEST C:\laragon\www\sipintar\wa-server\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2025/08/01-14:04:49.516 4638 Recovering log #38
+2025/08/01-14:04:49.530 4638 Reusing old log C:\laragon\www\sipintar\wa-server\.wwebjs_auth\session\Default\Local Storage\leveldb/000038.log 
+2025/08/01-14:04:49.540 4638 Delete type=2 #39
+2025/08/01-14:11:50.200 3774 Level-0 table #40: started
+2025/08/01-14:11:50.281 3774 Level-0 table #40: 19382 bytes OK
+2025/08/01-14:11:50.305 3774 Delete type=0 #38

@@ -1,0 +1,4 @@
+2025/08/01-14:04:49.057 2414 Creating DB C:\laragon\www\sipintar\wa-server\.wwebjs_auth\session\Default\shared_proto_db\metadata since it was missing.
+2025/08/01-14:04:49.366 2414 Reusing MANIFEST C:\laragon\www\sipintar\wa-server\.wwebjs_auth\session\Default\shared_proto_db\metadata/MANIFEST-000001
+2025/08/01-14:04:49.367 2414 Recovering log #3
+2025/08/01-14:04:49.368 2414 Reusing old log C:\laragon\www\sipintar\wa-server\.wwebjs_auth\session\Default\shared_proto_db\metadata/000003.log 

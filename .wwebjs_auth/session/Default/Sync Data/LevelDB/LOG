@@ -1,0 +1,4 @@
+2025/08/01-14:04:47.656 e9c Creating DB C:\laragon\www\sipintar\wa-server\.wwebjs_auth\session\Default\Sync Data\LevelDB since it was missing.
+2025/08/01-14:04:48.068 e9c Reusing MANIFEST C:\laragon\www\sipintar\wa-server\.wwebjs_auth\session\Default\Sync Data\LevelDB/MANIFEST-000001
+2025/08/01-14:04:48.069 e9c Recovering log #3
+2025/08/01-14:04:48.070 e9c Reusing old log C:\laragon\www\sipintar\wa-server\.wwebjs_auth\session\Default\Sync Data\LevelDB/000003.log 

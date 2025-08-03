@@ -1,0 +1,4 @@
+2025/08/01-14:04:47.663 ac0 Creating DB C:\laragon\www\sipintar\wa-server\.wwebjs_auth\session\Default\Site Characteristics Database since it was missing.
+2025/08/01-14:04:48.101 ac0 Reusing MANIFEST C:\laragon\www\sipintar\wa-server\.wwebjs_auth\session\Default\Site Characteristics Database/MANIFEST-000001
+2025/08/01-14:04:48.109 ac0 Recovering log #3
+2025/08/01-14:04:48.110 ac0 Reusing old log C:\laragon\www\sipintar\wa-server\.wwebjs_auth\session\Default\Site Characteristics Database/000003.log 

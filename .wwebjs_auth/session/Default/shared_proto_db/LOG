@@ -1,0 +1,4 @@
+2025/08/01-14:04:49.435 3c4c Creating DB C:\laragon\www\sipintar\wa-server\.wwebjs_auth\session\Default\shared_proto_db since it was missing.
+2025/08/01-14:04:49.479 3c4c Reusing MANIFEST C:\laragon\www\sipintar\wa-server\.wwebjs_auth\session\Default\shared_proto_db/MANIFEST-000001
+2025/08/01-14:04:49.489 3c4c Recovering log #3
+2025/08/01-14:04:49.492 3c4c Reusing old log C:\laragon\www\sipintar\wa-server\.wwebjs_auth\session\Default\shared_proto_db/000003.log 

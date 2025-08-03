@@ -1,0 +1,4 @@
+2025/08/01-14:04:49.458 3774 Creating DB C:\laragon\www\sipintar\wa-server\.wwebjs_auth\session\Default\Session Storage since it was missing.
+2025/08/01-14:04:49.568 3774 Reusing MANIFEST C:\laragon\www\sipintar\wa-server\.wwebjs_auth\session\Default\Session Storage/MANIFEST-000001
+2025/08/01-14:04:49.588 3774 Recovering log #3
+2025/08/01-14:04:49.605 3774 Reusing old log C:\laragon\www\sipintar\wa-server\.wwebjs_auth\session\Default\Session Storage/000003.log 
