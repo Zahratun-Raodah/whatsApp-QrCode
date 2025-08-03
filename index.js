@@ -96,7 +96,7 @@ app.post('/persensi/send', async (req, res) => {
 });
 
 // Jalankan server Node.js
-app.listen(port, () => {
-    console.log(`🌐 Server berjalan di http://localhost:${port}`);
+app.listen(port, '0.0.0.0', () => {
+    console.log(`🌐 Server berjalan di http://0.0.0.0:${port}`);
 });
 
